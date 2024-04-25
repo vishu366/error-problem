@@ -1,0 +1,9 @@
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.conon.HTTPSConn
+ection object at 0x00000277DAE1C0B0>: Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its acpermissions'
+)': /simple/requests/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.conNG: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.con
+nection.HTTPSConnection object at 0x00000277DAE1C0B0>: Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way fo
+rbidden by its access permissions')': /simple/requests/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.con
+nection.HTTPSConnection object at 0x00000277DAE1C440>: Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way fo
+rbidden by its access permissions')': /simple/requests/
